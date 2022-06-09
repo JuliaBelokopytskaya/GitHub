@@ -1,6 +1,7 @@
 # GitHub
 ## HW_GIT
-Созданы отдельные репозитории 
+Созданы отдельные репозитории
+
 JSON
 
 https://github.com/JuliaBelokopytskaya/JSON
@@ -8,6 +9,8 @@ https://github.com/JuliaBelokopytskaya/JSON
 XML
 
 TXT
+
+https://github.com/JuliaBelokopytskaya/TXT
 
 Задание в файле HW_GIT
 
