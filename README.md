@@ -8,6 +8,8 @@ https://github.com/JuliaBelokopytskaya/JSON
 
 XML
 
+https://github.com/JuliaBelokopytskaya/XML
+
 TXT
 
 https://github.com/JuliaBelokopytskaya/TXT
