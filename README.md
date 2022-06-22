@@ -17,8 +17,8 @@ https://github.com/JuliaBelokopytskaya/TXT
 Задание в файле HW_GIT
 
 ## HW2_GIT
-Репозиторий Program.
+Репозиторий Branches_GitHub.
 
-https://github.com/JuliaBelokopytskaya/Program
+https://github.com/JuliaBelokopytskaya/Branches_GitHub
 
 Задание в файле HW2_GIT
